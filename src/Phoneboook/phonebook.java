@@ -10,7 +10,7 @@ public class  phonebook{
     }
     public void saveToFile(String fileName){}
     public void adContact(String fileName){}
-    public Contact searsheContact(String fileName){}
+    public Contact searsheContact(String fileName){ return null;}
 
 
 
